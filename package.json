@@ -6,6 +6,8 @@
     "android": "react-native run-android",
     "ios": "react-native run-ios --simulator=\"iPhone 15 Pro Max\"",
     "macos": "react-native run-macos",
+    "run:platform": "yarn android && ios",
+    "run:all": "yarn ios && yarn android && yarn macos",
     "lint": "eslint .",
     "start": "react-native start",
     "test": "jest",
