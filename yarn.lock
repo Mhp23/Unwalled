@@ -6232,10 +6232,10 @@ react-is@^17.0.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-17.0.2.tgz#e691d4a8e9c789365655539ab372762b0efb54f0"
   integrity sha512-w2GsyukL62IJnlaff/nRegPQR94C/XXamvMWmSHRJ4y7Ts/4ocGRmTHvOs8PSE6pB3dWOrD/nueuU5sduBsQ4w==
 
-react-native-macos@^0.73.15:
-  version "0.73.15"
-  resolved "https://registry.yarnpkg.com/react-native-macos/-/react-native-macos-0.73.15.tgz#254ca07e9fa20d9bce0ccc4fc1267407fe87ff40"
-  integrity sha512-OjlgBPLq3wci9PhWWbO+7EBIMmOjcvVLPSvvbEJhOuDpKe4e6CDZVlErtnsQHoHXYLKCidp1o+h+Wl4zdll/Xw==
+react-native-macos@^0.73.17:
+  version "0.73.17"
+  resolved "https://registry.yarnpkg.com/react-native-macos/-/react-native-macos-0.73.17.tgz#4c01748e70f401dbfc972bdf5f9c9a7fbba2515c"
+  integrity sha512-6fDdfcAAxh1N15bLiGTIN0H4RazpVuQI/g7+7V/q5BcS3vqYifYWOPy1Ah5QfjfTI67Yu/Zzq6/jfl051TT2og==
   dependencies:
     "@jest/create-cache-key-function" "^29.6.3"
     "@react-native-community/cli" "12.3.2"
