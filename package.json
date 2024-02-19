@@ -21,7 +21,7 @@
   "dependencies": {
     "react": "18.2.0",
     "react-native": "0.73.4",
-    "react-native-macos": "^0.73.15"
+    "react-native-macos": "^0.73.17"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
